@@ -1,0 +1,26 @@
+body {
+	background-color: grey;
+}
+
+
+div {
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.green {
+	background-color: green;
+}
